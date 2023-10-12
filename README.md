@@ -11,6 +11,15 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NguyenNhutY&icon=2&color=1)](https://visitcount.itsvg.in)
+<br>
+<h2 class="title2" style="    
+    color:#00b5ac;
+    text-transform: uppercase;
+    font-weight:600;
+    letter-spacing: 1px;
+    margin-bottom:20px;">
+    Certificate
+</h2>
 <br> 
 <div class="image-container"style="display: flex;flex-direction: row;">
     <img src="./img/UC-1592cc5a-17ea-45d8-bc41-c15566c48555.jpg" alt="" srcset="" style="max-width: 600px;height: 300px;margin: 5px;">
