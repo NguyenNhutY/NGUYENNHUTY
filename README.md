@@ -18,7 +18,7 @@
     font-weight:600;
     letter-spacing: 1px;
     margin-bottom:20px;">
-    Certificate
+    🏆Certificate
 </h2>
 <br> 
 <div class="image-container"style="display: flex;flex-direction: row;">
