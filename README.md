@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhutY&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
@@ -22,6 +22,7 @@
 </h2>
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark)
+
 <br>
 <div class="image-container"style="display: flex;flex-direction: row;">
     <img src="./img/UC-1592cc5a-17ea-45d8-bc41-c15566c48555.jpg" alt="" srcset="" style="max-width: 500px;height: 300px;margin: 5px;">
