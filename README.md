@@ -7,15 +7,16 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhutY&theme=react&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
+
 <table align="center">
 <tbody>
-  <td width="50%" align="center">
+  <td width="100%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
 </tbody></table>
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
   <picture>
