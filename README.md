@@ -15,7 +15,7 @@
   </td>
 </tr>
 </tbody></table>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhuty&show_icons=true&locale=en" alt="nguyennhuty" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&" alt="nguyennhuty" /></p>
 
 
 
