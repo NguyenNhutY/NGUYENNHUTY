@@ -22,7 +22,7 @@
 </tr>
 </tbody></table>
   
-
+[![Google Developer Profile badges](https://github-readme-activity-graph.vercel.app/graph?username=loanngo99&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## 🏆GitHub Trophies
