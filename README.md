@@ -6,6 +6,7 @@
   <div>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhuty&show_icons=true&locale=en" alt="nguyennhuty" />
   </div>
   <div >
     
