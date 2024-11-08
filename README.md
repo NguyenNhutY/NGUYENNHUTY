@@ -8,7 +8,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhutY&theme=react&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
-
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @NguyenNhutY" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 <table align="center">
 <tbody>
   <td width="100%" align="center">
@@ -18,12 +23,7 @@
 </tbody></table>
   
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @NguyenNhutY" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
