@@ -7,10 +7,22 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 <table align="center">
-<tbody><td width="50%" align="center">
+<tbody>
+  <tr>
+  <td width="50%" align="center">
+  ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+  </td>
+      <td width="50%" align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
+  </td>
+</tr>
+</tbody></table>
+
+
+<table align="center">
+<tbody>
+  <td width="50%" align="center">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
   </td>
 </tr>
