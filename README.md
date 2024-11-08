@@ -9,14 +9,24 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
+<table align="center">
+<tbody><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!-- Copy-paste in your Readme.md file -->
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=704124956" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=704124956&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends of NguyenNhutY/NGUYENNHUTY - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=704124956&image_size=auto&color_scheme=light" width="815" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @NguyenNhutY" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 ---
