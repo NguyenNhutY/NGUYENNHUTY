@@ -8,8 +8,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
   </div>
   <div >
-    <div>
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10"><div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
@@ -21,6 +20,10 @@
 </a>
 
 [![Google Developer Profile badges](https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhutY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+<div>
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=react-dark&no-frame=true&no-bg=false&margin-w=4)
