@@ -21,9 +21,7 @@
 
 [![Google Developer Profile badges](https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhutY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
-      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
-<div>
+
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=react-dark&no-frame=true&no-bg=false&margin-w=4)
@@ -32,6 +30,9 @@
 [![](https://visitcount.itsvg.in/api?id=NguyenNhutY&icon=2&color=1)](https://visitcount.itsvg.in)
 <br>
 
+<div>
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+<div>
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?activity=stars&collection_id=10005" target="_blank" style="display: block" align="center">
