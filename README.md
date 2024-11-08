@@ -10,12 +10,11 @@
 <table align="center">
 <tbody>
   <tr>
-  <td width="50%" align="center">
+
   ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-  </td>
-      <td width="50%" align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
-  </td>
+
 </tr>
 </tbody></table>
 
