@@ -31,6 +31,18 @@
 
 [![](https://visitcount.itsvg.in/api?id=NguyenNhutY&icon=2&color=1)](https://visitcount.itsvg.in)
 <br>
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/collection-annually-ranking?activity=stars&collection_id=10005" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=10005&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Repository Annual Ranking in Javascript Framework" src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=10005&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 <h2 class="title2" style="    
     color:#00b5ac;
     text-transform: uppercase;
