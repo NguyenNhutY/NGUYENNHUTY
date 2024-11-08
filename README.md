@@ -4,8 +4,8 @@
 # 📊GitHub Stats :
 
   <div>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyennhuty&show_icons=true&locale=en" alt="nguyennhuty" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
   </div>
   <div >
     <div>
