@@ -3,13 +3,12 @@
 
 # 📊GitHub Stats :
 
-  <div width="100%" align="center">
+  <div>
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NguyenNhutY&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
   </div>
   <div >
     
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
-  </div>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
