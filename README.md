@@ -16,7 +16,7 @@
 </tr>
 </tbody></table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&)
 
@@ -36,7 +36,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=react-dark&no-frame=true&no-bg=false&margin-w=4)
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenNhutY)](https://github.com/NguyenNhutY/github-profile-trophy)
 
 
 <!-- Copy-paste in your Readme.md file -->
