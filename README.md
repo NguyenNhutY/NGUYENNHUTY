@@ -28,7 +28,7 @@
 [![Google Developer Profile badges](https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhutY&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=react-dark&no-frame=true&no-bg=false&margin-w=4)
 
 
 
