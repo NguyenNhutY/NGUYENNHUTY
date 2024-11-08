@@ -15,12 +15,10 @@
   </td>
 </tr>
 </tbody></table>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&" alt="nguyennhuty" /></p>
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&" alt="nguyennhuty" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
