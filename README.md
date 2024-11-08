@@ -4,21 +4,10 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhutY&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
+
   ![](https://github-trophies.vercel.app/?username=NguyenNhutY&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @NguyenNhutY" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-## 🏆GitHub Trophies
-
-
 
 <table align="center">
 <tbody>
@@ -27,6 +16,17 @@
   </td>
 </tr>
 </tbody></table>
+
+## 🏆GitHub Trophies
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @NguyenNhutY" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=130396826&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
+
 <!-- Copy-paste in your Readme.md file -->
 <!-- Copy-paste in your Readme.md file -->
 
