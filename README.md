@@ -11,14 +11,10 @@
 </tbody></table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenNhutY&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<table width="100%" align="center">
-<tbody>
-  <td width="100%" align="center">
+  <div >
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyennhuty&">
-  </td>
-</tr>
-</tbody></table>
+  </div>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NguyenNhutY&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenNhutY&theme=aura_dark) 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=130396826" target="_blank" style="display: block" align="center">
