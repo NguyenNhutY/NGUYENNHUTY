@@ -2,7 +2,7 @@
 <div>
   <h3 align="center"> 
     Visitors Count<br>
-    <img align="center" src="https://profile-counter.glitch.me/gnahtcouq/count.svg" />
+    <img align="center" src="https://profile-counter.glitch.me/NguyenNhutY/count.svg" />
   </h3>
 </div>
 </br>
